@@ -10,8 +10,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import java.util.logging.LogRecord;
-
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
     private TextView text;
     private Button changeText;
